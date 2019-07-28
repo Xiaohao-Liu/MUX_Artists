@@ -1,0 +1,62 @@
+<!doctype>
+<html>
+<head>
+    <title>MUX Project</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/colordData.js"></script>
+    <script type="text/javascript" src="js/d3-geomap.min.js"></script>
+</head>
+
+<body>
+    <div class="title">What influences the colorful art history?</div>
+    <div class="top_desc">From kaggle, we obtained the information of <strong>50</strong> most influential painters and part of their paintings. We extracted the two main color to represent each picture filling in a small square. The 50 painters will be ordered by the year of birth, and the length of the bar means the length of their lives. That is, the density of small square can reflect the efficiency of each artist's.</div>
+    <div id="top_b">
+        <div id="top_imgs_B">
+            <div id="top_imgs_B_"></div>
+        </div>
+    </div>
+<!--    <div id="front">-->
+        <div class="front_b" id="front_top_1">The productivity of each artist varies greatly.<strong>Van gogh</strong> didn't live long but he was very efficient.</div>
+        <div class="front_b" id="front_top_2">The different preferences of each painter can be seen from the color of the bars. For example, <strong>Albrecht Durer</strong> prefers darker color, and <strong>Georges Seurat</strong> prefers green.
+
+        </div>
+        <div class="front_b" id="front_top_3">Of course, different periods of history painters lived in had a lot to do with their preference for color.</div>
+        <div class="front_b" id="front_top_4">These 50 artists are concentrated over several periods. From <strong>the 5th century</strong> to <strong>the 15th century</strong> is the <strong>medieval art period</strong> in Europe. The art creation in this period has a strong religious meaning. Most of the works left after a long history are murals and sculptures.</div>
+        <div class="front_b" id="front_top_5"><strong>The 14th to 16th centuries</strong> was the <strong>Renaissance</strong> period in Europe, and Renaissance art was aimed at adhering to realistic methods and embodying humanistic thoughts. Baroque art appeared in Europe in the 17th century.</div>
+        <div class="front_b" id="front_top_6">Various artistic styles of <strong>the 18th and 19th centuries</strong> existed simultaneously and collided with each other. The artistic atmosphere is gorgeous.</div>
+        <div class="front_b" id="front_top_7">Political, economic, social and other factors in different historical periods affect the theme and style of artists' artistic creation. Personal factors of artists also affect their artistic creation, and the situation of marriage and love is a very important factor.The red color in the picture below indicates the presence of a spouse, and the small square is part of the representative works. By levitation, art works can be viewed, and it can be found that whether or not marriage and love have an important impact on the creative style and efficiency of artists. For example, when Paul Klee  was married, he used brighter colors.</div>
+        <div class="front_b" id="front_top_8">These painters belong to different schools, which enrich human art and enrich human life.The economic value of their paintings is not to be sniped at, with Henri Rousseau winning $602.5m, the highest auction price ever paid for an artist's work.
+
+        </div>
+        <div class="front_b" id="front_top_9">The 50 artists are from all over the world, the most in Europe, and 15 of them are from <strong>France</strong>.</div>
+        <div id="end_show_button">Click to See Details</div>
+<!--    </div>-->
+    <div class="main_board" >
+    	<svg id="main_svg">
+
+        </svg>
+    	<div id="main_div">
+            <div id="work_B"></div>
+            <div id="imgs_show" >
+                <div id="mode_change_btn"></div>
+                <div id="info"></div>
+                <div id="desc"></div>
+                <div id="close"></div>
+                <div  id="imgs_B">
+
+
+                    <div id="imgs_B_"></div>
+
+                </div>
+
+        </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

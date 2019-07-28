@@ -1,0 +1,214 @@
+id,name,work_name,file path,work_year
+0,Amedeo Modigliani,Red-headed Girl in Evening Dress,Amedeo_Modigliani_161,1918
+0,Amedeo Modigliani,Madame Pompadour,Amedeo_Modigliani_52,1914
+0,Amedeo Modigliani,Jeanne Hébuterne in Red Shawl,Amedeo_Modigliani_170,1917
+1,Vasiliy Kandinskiy,,Vasiliy_Kandinskiy_50,1903
+1,Vasiliy Kandinskiy,Rotterdam Sun,Vasiliy_Kandinskiy_32,1906
+1,Vasiliy Kandinskiy,,Vasiliy_Kandinskiy_52,1910
+1,Vasiliy Kandinskiy,The Rider,Vasiliy_Kandinskiy_84,1911
+1,Vasiliy Kandinskiy,In Grey,Vasiliy_Kandinskiy_18,1919
+1,Vasiliy Kandinskiy,Small worlds I,Vasiliy_Kandinskiy_74,1922
+1,Vasiliy Kandinskiy,Several Circles,Vasiliy_Kandinskiy_44,1926
+1,Vasiliy Kandinskiy,Composition X,Vasiliy_Kandinskiy_80,1939
+2,Diego Rivera,Detroit Industry,Diego_Rivera_12,1932
+2,Diego Rivera,Man at the Crossroads,Diego_Rivera_71,1934
+2,Diego Rivera,Detroit Industry Murals,Diego_Rivera_46,1933
+3,Claude Monet,"Impression,Sunrise",Claude_Monet_73,1872
+3,Claude Monet,Arrival of the Normandy Train,Claude_Monet_54,1877
+4,Rene Magritte,This is Not a Pipe,Rene_Magritte_45,1928
+4,Rene Magritte,比利牛斯山上城堡,,1959
+4,Rene Magritte,戴帽子的男人,Rene_Magritte_87,1964
+5,Salvador Dali,La persistencia de la memoria,Salvador_Dali_140,1931
+6,Edouard Manet,草地上的午餐,Edouard_Manet_34,1862
+6,Edouard Manet,Un bar aux Folies Bergère,Edouard_Manet_44,1882
+7,Andrei Rublev,三位一体,Andrei_Rublev_90,1416
+8,Vincent van Gogh,the starry night,Vincent_van_Gogh_368,1889
+8,Vincent van Gogh,Sunflowers,Vincent_van_Gogh_875,1889
+8,Vincent van Gogh,branches of an almond tree in blossom,Vincent_van_Gogh_507,1890
+9,Gustav Klimt,The Kiss,Gustav_Klimt_118,1907
+9,Gustav Klimt,Adele Bloch-Bauer's Portrait,Gustav_Klimt_119,1907
+10,Hieronymus Bosch,Adoration of the Magi,Hieronymus_Bosch_94,1510
+10,Hieronymus Bosch,Christ Carrying the Cross,Hieronymus_Bosch_137,1515
+11,Kazimir Malevich,Portrait of a Woman,Kazimir_Malevich_16,1932
+11,Kazimir Malevich,Head of Peasant,Kazimir_Malevich_87,1932
+12,Mikhail Vrubel,Demon,Mikhail_Vrubel_134,1890
+13,Pablo Picasso,Girl in front of mirror,Pablo_Picasso_119,1932
+13,Pablo Picasso,Self-Portrait,Pablo_Picasso_440,1907
+13,Pablo Picasso,A dream,Pablo_Picasso_441,1932
+14,Peter Paul Rubens,Portrait of Susanne Fourment,Peter_Paul_Rubens_29,1625
+14,Peter Paul Rubens,portrait of helena fourment,Peter_Paul_Rubens_1,1630
+14,Peter Paul Rubens,the judgment of paris,Peter_Paul_Rubens_50,1636
+15,Pierre-Auguste Renoir,坐着的裸女,Pierre-Auguste_Renoir_184,1883
+16,Francisco Goya,dona isabel cobos de porcel,Francisco_Goya_280,1806
+16,,self portrait,Francisco_Goya_116,1795
+18,El Greco,lady with a fur,El_Greco_23,1578
+18,,christ carrying the cross,El_Greco_16,1580
+19,Albrecht Dürer,the virgin on a crescent with a crown of stars and a scepter,Albrecht_Dürer_81,1516
+19,,祈祷之手,Albrecht_Dürer_49,1509
+20,Alfred Sisley,Avenue of Chestnut Trees near La Celle-Saint-Cloud,Alfred_Sisley_258,1865
+20,Alfred Sisley,La Seine au point du jou,Alfred_Sisley_257,1877
+21,Pieter Bruegel,Pieter Bruegel the Elder,Pieter_Bruegel_73,1565
+21,Pieter Bruegel,Pieter_Bruegel_the_Younger,Pieter_Bruegel_43,1616
+22,Marc Chagall,To My Betrothed,Marc_Chagall_159,1911
+22,Marc Chagall,I and the Village,Marc_Chagall_183,1911
+22,Marc Chagall,"A la Russie, aux ânes et aux autres",Marc_Chagall_227,1923
+22,Marc Chagall,"Trois heures et demie (Le poète), Half-Past Three (The Poet) Halb vier Uhr,",Marc_Chagall_166,1941
+23,Giotto di Bondone,The Ascension of St John the Evangelist,Giotto_di_Bondone_7,1291
+23,Giotto di Bondone,the Mourning of St. Francis,Giotto_di_Bondone_40,1301
+23,Giotto di Bondone,The verso of The Stefaneschi Altarpiece,Giotto_di_Bondone_106,1320
+24,Sandro Botticelli,Primavera,Sandro_Botticelli_22,1482
+24,Sandro Botticelli,The Birth of Venus,Sandro_Botticelli_25,1485
+25,Caravaggio,"Nativity with St. Francis and St. Lawrence,",Sandro_Botticelli_38,1600
+26,Leonardo da Vinci,Mona Lisa,Leonardo_da_Vinci_121,1517
+26,Leonardo da Vinci,The Last Supper,Leonardo_da_Vinci_114,1490
+26,Leonardo da Vinci,Lady with an Ermine,Leonardo_da_Vinci_34,1489
+26,Leonardo da Vinci,Virgin of the Rocks,Leonardo_da_Vinci_67,1483
+26,Leonardo da Vinci,Vitruvian Man,Leonardo_da_Vinci_23,1490
+27,Diego Velazquez,The Surrender of Breda ,Diego_Velazquez_4,1634
+27,Diego Velazquez,Rokeby Venus ,Diego_Velazquez_16,1647
+27,Diego Velazquez,Portrait of Innocent,Diego_Velazquez_59,1650
+27,Diego Velazquez,Las Meninas ,Diego_Velazquez_42,1656
+27,Diego Velazquez,Las Hilanderas,Diego_Velazquez_53,1657
+28,Henri Matisse,Woman with a Hat ,Henri_Matisse_10,1905
+28,Henri Matisse,The Joy of Life,Henri_Matisse_48,1906
+28,Henri Matisse,Nu bleu,Henri_Matisse_64,1907
+28,Henri Matisse,La Danse,Henri_Matisse_60,1909
+28,Henri Matisse,L’Atelier Rouge,Henri_Matisse_171,1911
+29,Jan van Eyck,Ghent Altarpiece,Jan_van_Eyck_4,1420
+29,Jan van Eyck,Arnolfini Portrait,Jan_van_Eyck_50,1434
+29,Jan van Eyck,Madonna of Chancellor Rolin,Jan_van_Eyck_20,1435
+29,Jan van Eyck,Annunciation,Jan_van_Eyck_45,1434
+29,Jan van Eyck,Madonna in the Church,Jan_van_Eyck_74,1440
+30,Edgar Degas,The Bellelli Family,Edgar_Degas_26,1862
+30,Edgar Degas,Woman with Chrysanthemums,Edgar_Degas_40,1865
+30,Edgar Degas,Chanteuse de Café,Edgar_Degas_65,1878
+30,Edgar Degas,At the Milliner’s,Edgar_Degas_127,1882
+31,Rembrandt,The Anatomy Lesson of Dr. Nicolaes Tulp,Rembrandt_51,1632
+31,Rembrandt,Belshazzar’s Feast,Rembrandt_15,1635
+31,Rembrandt,The Night Watch,Rembrandt_54,1642
+31,Rembrandt,Bathsheba at Her Bath ,Rembrandt_141,1654
+31,Rembrandt,Syndics of the Drapers' Guild ,Rembrandt_226,1662
+31,Rembrandt,The Hundred Guilder Print,Rembrandt_241,1648
+32,Titian,Annunciation,Titian_59,1519
+32,Titian,Venus Anadyomene,Titian_64,1520
+33,Henri de Toulouse-Lautrec,Bouquet of violets in a vase,Henri_de_Toulouse-Lautrec_47,1882
+34,Gustave Courbet,A Burial At Ornans ,Gustave_Courbet_2,1849
+34,Gustave Courbet,The Painter's Studio,Gustave_Courbet_30,1855
+34,Gustave Courbet,L’Origine du monde,Gustave_Courbet_54,1866
+35,Camille Pissarro,Apple Trees at Pontoise,Camille_Pissarro_16,1872
+35,Camille Pissarro,Boulevard de Rochechouart,Camille_Pissarro_73,1880
+36,William Turner,Newnham-on-Severn from Dean Hill,William_Turner_8,1843
+37,Edvard Munch,The Scream,Edvard_Munch_12,1893
+37,Edvard Munch,Madonna,Edvard_Munch_42,1895
+37,Edvard Munch,The Sick Child,Edvard_Munch_13,1885
+38,Paul Cezanne,Mont Sainte-Victoire seen from Bellevue (c. 1885),Paul_Cezanne_18,1885
+38,Paul Cezanne,Apothéose de Delacroix (1890–1894),Paul_Cezanne_41,1892
+38,Paul Cezanne,"Rideau, Cruchon et Compotier (1893–1894)",Paul_Cezanne_43,1893
+38,Paul Cezanne,The Card Players (1890–1895),Paul_Cezanne_31,1893
+38,Paul Cezanne,The Bathers (1898–1905),Paul_Cezanne_22,1901
+39,Eugene Delacroix,Liberty Leading the People,Eugene_Delacroix_14,1830
+40,Henri Rousseau,A Carnival Evening,Henri_Rousseau_7,1886
+40,Henri Rousseau,Self Portrait,Henri_Rousseau_25,1890
+40,Henri Rousseau,Boy on the Rocks,Henri_Rousseau_6,1895
+40,Henri Rousseau,The sleeping Gypsy,Henri_Rousseau_54,1897
+40,Henri Rousseau,Self-portrait of the Artist with a lamp,Henri_Rousseau_33,1903
+40,Henri Rousseau,The Flamingoes,Henri_Rousseau_46,1907
+40,Henri Rousseau,The Snake Charmer,Henri_Rousseau_55,1907
+40,Henri Rousseau,The Repast of the Lion,Henri_Rousseau_52,1907
+40,Henri Rousseau,Exotic Landscape,Henri_Rousseau_12,1908
+40,Henri Rousseau,Fight Between a Tiger and a Buffalo,Henri_Rousseau_13,1908
+40,Henri Rousseau,"View of the Bridge in Sevres and the Hills of Clamart, Saint-Cloud and Bellevue with biplane, balloon and dirigible",Henri_Rousseau_64,1908
+40,Henri Rousseau,The Football Players,Henri_Rousseau_47,1908
+40,Henri Rousseau,Muse Inspiring the Poet (Portrait of Guillaume Apollinaire and Marie Laurencin),Henri_Rousseau_48,1909
+40,Henri Rousseau,The Equatorial Jungle,Henri_Rousseau_45,1909
+40,Henri Rousseau,Bouquet of Flowers,Henri_Rousseau_14,1910
+40,Henri Rousseau,Pierre Loti,Henri_Rousseau_31,1910
+40,Henri Rousseau,Vue des environs de Paris,Henri_Rousseau_71,1900
+41,Georges Seurat,Study for A Sunday Afternoon on the Island of La Grande Latte,Georges_Seurat_23,1884
+41,Georges Seurat,Bathers at Asnieres,Georges_Seurat_20,1884
+41,Georges Seurat,View of Fort Samson,Georges_Seurat_12,1885
+41,Georges Seurat,The Seine and la Grande Jatte - Springtime,Georges_Seurat_11,1888
+41,Georges Seurat,Models (Les Poseuses),Georges_Seurat_15,1886
+41,Georges Seurat,"Gray weather, Grande Jatte",Georges_Seurat_26,1888
+41,Georges Seurat,"Seated Nude, Study for Une Baignade",Georges_Seurat_37,1883
+41,Georges Seurat,Le Chahut,Georges_Seurat_42,1889
+41,Georges Seurat,Jeune femme se poudrant,Georges_Seurat_14,1888
+41,Georges Seurat,The Circus,Georges_Seurat_6,1891
+42,Paul Klee,Flower Myth(Blumenmythos),Paul_Klee_60,1918
+42,Paul Klee,Hammamet with mosque,Paul_Klee_12,1914
+42,Paul Klee,Cat and Bird,Paul_Klee_18,1928
+42,Paul Klee,Senecio,Paul_Klee_52,1922
+42,Paul Klee,Red Balloon,Paul_Klee_166,1922
+42,Paul Klee,Nocturnal Festivity,Paul_Klee_172,1921
+42,Paul Klee,Tale à la Hoffmann,Paul_Klee_112,1921
+42,Paul Klee,"Sixth Invention: Zwei Männer, einander in höherer Stellung vermutend, begegnen sich",Paul_Klee_101,1903
+42,Paul Klee,Aged Phoenix,Paul_Klee_104,1905
+42,Paul Klee,Third Invention: Jungfrau im Baum,Paul_Klee_154,1903
+42,Paul Klee,Black Knight,Paul_Klee_92,1927
+42,Paul Klee,Revolution des Viadukts,Paul_Klee_1,1937
+42,Paul Klee,Puppet theater,Paul_Klee_2,1923
+42,Paul Klee,Flora on sand,Paul_Klee_32,1927
+42,Paul Klee,Soutern (Tunisian) gardens,Paul_Klee_37,1919
+42,Paul Klee,Insula dulcamara,Paul_Klee_76,1938
+42,Paul Klee,Tod und Feuer (Death and Fire),Paul_Klee_79,1940
+42,Paul Klee,Geschwister,Paul_Klee_36,1930
+43,Piet Mondrian,Avond (Eveneing) : The Red Tree,Piet_Mondrian_8,1909
+43,Piet Mondrian,Composition No.10,Piet_Mondrian_47,1940
+43,Piet Mondrian,The Gray Tree,Piet_Mondrian_54,1911
+43,Piet Mondrian,Broadway Boogie Woogie,Piet_Mondrian_42,1942
+43,Piet Mondrian,New York City I,Piet_Mondrian_60,1942
+43,Piet Mondrian,Place de la Concorde,Piet_Mondrian_84,1941
+43,Piet Mondrian,"Composition with Black, Red, Yellow and Blue",Piet_Mondrian_1,1921
+44,Joan Miro,The Farm,Joan_Miro_47,1921
+44,Joan Miro,Maternity,Joan_Miro_26,1924
+44,Joan Miro,The Tilled Field,Joan_Miro_52,1923
+44,Joan Miro,The Ear of Grain,Joan_Miro_50,1922
+44,Joan Miro,Dancer,Joan_Miro_31,1925
+44,Joan Miro,The Beautiful Bird Revealing the Unknown to a Pair of Lovers (from the Constellation series),Joan_Miro_11,1941
+44,Joan Miro,Peinture,Joan_Miro_21,1963
+45,Andy Warhol,Big Cambell's Soup Can 19c (Beef Noodle),Andy_Warhol_143,1962
+45,Andy Warhol,Elvis I & II,Andy_Warhol_1,1963
+45,Andy Warhol,Marilyn Monroe,Andy_Warhol_127,1968
+45,Andy Warhol,Mao,Andy_Warhol_58,1972
+45,Andy Warhol,Che Guevara,Andy_Warhol_124,1968
+45,Andy Warhol,Mickey,Andy_Warhol_73,1982
+45,Andy Warhol,Self-Portrait,Andy_Warhol_91,1986
+45,Andy Warhol,Red Lenin,Andy_Warhol_86,1987
+45,Andy Warhol,Black Lenin,Andy_Warhol_138,1987
+45,Andy Warhol,Beethoven,Andy_Warhol_136,1987
+45,Andy Warhol,Benz Racing Car,Andy_Warhol_137,1986
+45,Andy Warhol,Hamburer (beige),Andy_Warhol_32,1986
+45,Andy Warhol,Friedrich The Great,Andy_Warhol_23,1986
+45,Andy Warhol,Turquoise Marilyn,Andy_Warhol_66,1962
+46,Paul Gauguin,Self Portrait with Halo and Snake,Paul_Gauguin_107,1889
+46,Paul Gauguin,The Vision after the Sermon (Jacob wrestling with the Angel),Paul_Gauguin_190,1888
+46,Paul Gauguin,Yellow Christ,Paul_Gauguin_210,1889
+46,Paul Gauguin,Woman with a Flower,Paul_Gauguin_145,1891
+46,Paul Gauguin,What's New?,Paul_Gauguin_69,1892
+46,Paul Gauguin,The Seed of the Areoi,Paul_Gauguin_151,1892
+46,Paul Gauguin,Van Gogh Painting Sunflowers,Paul_Gauguin_227,1888
+46,Paul Gauguin,Self Portrait in a Hat,Paul_Gauguin_105,1893
+46,Paul Gauguin,Nevermore,Paul_Gauguin_57,1897
+46,Paul Gauguin,Spirit of the Dead Watching,Paul_Gauguin_44,1892
+46,Paul Gauguin,Day of the Gods,Paul_Gauguin_40,1894
+46,Paul Gauguin,Where Do We Come From? What Are We? Where Are We Going?,Paul_Gauguin_236,1897
+46,Paul Gauguin,When Will You Marry?,Paul_Gauguin_235,1892
+47,Raphael,The Madonna Conestabile,Raphael_23,1502
+47,Raphael,The Three Graces,Raphael_32,1504
+47,Raphael,The Sistine Madonna,Raphael_83,1513
+47,Raphael,The Mond Crucifixion,Raphael_71,1502
+47,Raphael,The Coronation of the Virgin,Raphael_62,1502
+47,Raphael,Saint George and the Dragon,Raphael_51,1505
+47,Raphael,Deposition of Christ,Raphael_55,1507
+47,Raphael,Transfiguration,Raphael_10,1520
+48,Michelangelo,The Last Judgement,Michelangelo_49,1539
+48,Michelangelo,Holy Family with St.John the Baptist,Michelangelo_44,1506
+48,Michelangelo,The Torment of Saint Anthony,Michelangelo_38,1487
+48,Michelangelo,Sistine Chapel Ceiling : Creation of Adam,Michelangelo_4,1510
+48,Michelangelo,Sistine Chapel Ceiling : The Delphic Sibyl,Michelangelo_45,1509
+49,Jackson Pollock,Mural,Jackson_Pollock_9,1943
+49,Jackson Pollock,Number 5,Jackson_Pollock_11,1948
+49,Jackson Pollock,Number 1(Lavender Mist),Jackson_Pollock_8,1950
+49,Jackson Pollock,Blue poles (Number 11),Jackson_Pollock_3,1952
+49,Jackson Pollock,Convergence,Jackson_Pollock_4,1952
+49,Jackson Pollock,Number 8,Jackson_Pollock_12,1949
