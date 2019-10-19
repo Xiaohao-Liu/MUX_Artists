@@ -308,7 +308,7 @@ function show_imgs_all(){
 		if(i === def_life_line)return true;
 		else return false;
 	}).style("width","230px")
-	desc.style("width", "calc(100% - 40px)").stle("max-height","460px").style("top",0).style("left", 340)
+	desc.style("width", "calc(100% - 40px)").style("max-height","460px").style("top",0).style("left", 240)
 	imgs_B.style("transform","rotate(0deg)").style("width","100%").style("padding-right",20).style("display","flex").style("flex-flow","column").style("overflow-y", "scroll").style("overflow-x", "hidden")
 	.selectAll("img").style("width","200px").style("height","auto")
 }
@@ -318,7 +318,7 @@ function show_imgs_show(){
 		if(i === def_life_line)return true;
 		else return false;
 	}).style("width","60%");
-	desc.style("width", 400).stle("max-height","380px").style("top",60).style("left", 100)
+	desc.style("width", 400).style("max-height","380px").style("top",60).style("left", "calc(50% - 200px)")
 	imgs_B.style("transform","rotate(45deg)").style("width","200%").style("padding-right",0).style("display","block").style("overflow", "visible")
 	.selectAll("img").style("width","auto").style("height","150px")
 }
