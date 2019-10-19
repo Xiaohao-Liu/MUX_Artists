@@ -489,7 +489,7 @@ var front_7 = front_6+500;
 
 var front_8 = front_7+500;
 
-var front_end = front_8 + 300;
+var front_end = $(document).height() - 10;
 
 console.log(front_8)
 $(window).scrollTop(0);
