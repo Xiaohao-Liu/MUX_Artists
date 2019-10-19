@@ -3,6 +3,7 @@
 ### 简述：
 
 本项目收集了具有影响力的50位艺术家的画作，并收集了该50位艺术家的生平，并通过web技术对艺术家进行数据的展示。https://wykxldz.github.io/MUX_Artists/
+![MUXworkshop](./MUXworkshop.gif)
 
 ## 项目结构
 
