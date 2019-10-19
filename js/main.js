@@ -303,14 +303,14 @@ function judge_mode_and_do(){
 	}
 }
 function show_imgs_all(){
-	img_board.style("width", "30%");
+	img_board.style("width", "230px");
 	life_line.filter(function(d,i){
 		if(i === def_life_line)return true;
 		else return false;
-	}).style("width","30%")
-	desc.style("width", "calc(100% - 40px)").style("top",0).style("left", 320)
+	}).style("width","230px")
+	desc.style("width", "calc(100% - 40px)").stle("max-height","460px").style("top",0).style("left", 340)
 	imgs_B.style("transform","rotate(0deg)").style("width","100%").style("padding-right",20).style("display","flex").style("flex-flow","column").style("overflow-y", "scroll").style("overflow-x", "hidden")
-	.selectAll("img").style("width","300px").style("height","auto")
+	.selectAll("img").style("width","200px").style("height","auto")
 }
 function show_imgs_show(){
 	img_board.style("width", "60%");
@@ -318,7 +318,7 @@ function show_imgs_show(){
 		if(i === def_life_line)return true;
 		else return false;
 	}).style("width","60%");
-	desc.style("width", 400).style("top",60).style("left", 100)
+	desc.style("width", 400).stle("max-height","380px").style("top",60).style("left", 100)
 	imgs_B.style("transform","rotate(45deg)").style("width","200%").style("padding-right",0).style("display","block").style("overflow", "visible")
 	.selectAll("img").style("width","auto").style("height","150px")
 }
