@@ -5,12 +5,11 @@ var top_imgs = d3.select("#top_imgs_B_")
 for(var i =0; i < Artists_name.length; i++){
 	if(i === 19)continue;
 	for(var j = 0; j< 3; j++){
-
 		var name__ = Artists_name[i].split(" ").join("_")
 		top_imgs.append("img").attr("class", "img").attr("src", "./best-artworks-of-all-time/images/" + name__+"/"+name__+"_"+(j+1)+".jpg")
-
 	}
 }
+top_imgs.html(top_imgs.html() + top_imgs.html())
 
 /******SVG Draw *******/
 
@@ -308,7 +307,7 @@ function show_imgs_all(){
 		if(i === def_life_line)return true;
 		else return false;
 	}).style("width","230px")
-	desc.style("width", "calc(100% - 40px)").style("max-height","460px").style("top",0).style("left", 240)
+	desc.style("width", "300px").style("max-height","460px").style("top",0).style("left", 240)
 	imgs_B.style("transform","rotate(0deg)").style("width","100%").style("padding-right",20).style("display","flex").style("flex-flow","column").style("overflow-y", "scroll").style("overflow-x", "hidden")
 	.selectAll("img").style("width","200px").style("height","auto")
 }
