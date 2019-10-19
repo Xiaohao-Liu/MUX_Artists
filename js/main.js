@@ -302,14 +302,14 @@ function judge_mode_and_do(){
 	}
 }
 function show_imgs_all(){
-	img_board.style("width", "230px");
+	img_board.style("width", "280px");
 	life_line.filter(function(d,i){
 		if(i === def_life_line)return true;
 		else return false;
-	}).style("width","230px")
-	desc.style("width", "300px").style("max-height","460px").style("top",0).style("left", 240)
-	imgs_B.style("transform","rotate(0deg)").style("width","100%").style("padding-right",20).style("display","flex").style("flex-flow","column").style("overflow-y", "scroll").style("overflow-x", "hidden")
-	.selectAll("img").style("width","200px").style("height","auto")
+	}).style("width","280px")
+	desc.style("width", "300px").style("max-height","460px").style("top",0).style("left", 290)
+	imgs_B.style("transform","rotate(0deg)").style("width","100%").style("display","flex").style("flex-flow","column").style("overflow-y", "scroll").style("overflow-x", "hidden")
+	.selectAll("img").style("width","250px").style("height","auto")
 }
 function show_imgs_show(){
 	img_board.style("width", "60%");
@@ -633,7 +633,7 @@ $(window).scroll(function(){
 		// svg_scroll = false;
 		check_section_flag[8] = false;
 	}
-	if(windowTop >= front_end &&  check_section_flag[9]  ) {
+	if(windowTop + window.innerHeight >= front_end &&  check_section_flag[9]  ) {
 		svg_scroll = false;
 
 		d3.select("#end_show_button").style("opacity", 1).on("click",function(){
